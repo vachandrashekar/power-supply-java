@@ -1,4 +1,4 @@
-package com.crossover.techtrial.model;
+package com.powersupply.techtrial.model;
 
 import java.io.Serializable;
 import javax.persistence.Column;

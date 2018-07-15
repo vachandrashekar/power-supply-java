@@ -1,4 +1,4 @@
-package com.crossover.techtrial;
+package com.powersupply.techtrial;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class CrossSolarApplicationTests {
+public class PowerSupplyApplicationTests {
 
   @Test
   public void contextLoads() {

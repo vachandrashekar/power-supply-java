@@ -1,4 +1,4 @@
-package com.crossover.techtrial.dto;
+package com.powersupply.techtrial.dto;
 
 import java.io.Serializable;
 import java.time.LocalDate;

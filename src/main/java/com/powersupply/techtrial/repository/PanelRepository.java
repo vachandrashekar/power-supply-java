@@ -1,6 +1,6 @@
-package com.crossover.techtrial.repository;
+package com.powersupply.techtrial.repository;
 
-import com.crossover.techtrial.model.Panel;
+import com.powersupply.techtrial.model.Panel;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.rest.core.annotation.RestResource;
 /**

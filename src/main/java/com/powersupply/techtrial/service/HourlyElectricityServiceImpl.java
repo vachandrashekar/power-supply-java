@@ -1,7 +1,7 @@
-package com.crossover.techtrial.service;
+package com.powersupply.techtrial.service;
 
-import com.crossover.techtrial.model.HourlyElectricity;
-import com.crossover.techtrial.repository.HourlyElectricityRepository;
+import com.powersupply.techtrial.model.HourlyElectricity;
+import com.powersupply.techtrial.repository.HourlyElectricityRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

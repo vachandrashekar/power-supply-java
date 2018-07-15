@@ -1,4 +1,4 @@
-package com.crossover.techtrial.model;
+package com.powersupply.techtrial.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.io.Serializable;

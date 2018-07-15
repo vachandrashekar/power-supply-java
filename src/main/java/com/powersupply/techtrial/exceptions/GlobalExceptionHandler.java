@@ -1,4 +1,4 @@
-package com.crossover.techtrial.exceptions;
+package com.powersupply.techtrial.exceptions;
 
 import java.util.AbstractMap;
 import org.slf4j.Logger;

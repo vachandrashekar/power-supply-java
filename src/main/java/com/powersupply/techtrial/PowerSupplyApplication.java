@@ -1,13 +1,13 @@
-package com.crossover.techtrial;
+package com.powersupply.techtrial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrossSolarApplication {
+public class PowerSupplyApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(CrossSolarApplication.class, args);
+    SpringApplication.run(PowerSupplyApplication.class, args);
   }
 
 }

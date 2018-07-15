@@ -1,7 +1,7 @@
-package com.crossover.techtrial.service;
+package com.powersupply.techtrial.service;
 
-import com.crossover.techtrial.model.Panel;
-import com.crossover.techtrial.repository.PanelRepository;
+import com.powersupply.techtrial.model.Panel;
+import com.powersupply.techtrial.repository.PanelRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

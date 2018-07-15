@@ -1,6 +1,6 @@
-package com.crossover.techtrial.service;
+package com.powersupply.techtrial.service;
 
-import com.crossover.techtrial.model.HourlyElectricity;
+import com.powersupply.techtrial.model.HourlyElectricity;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

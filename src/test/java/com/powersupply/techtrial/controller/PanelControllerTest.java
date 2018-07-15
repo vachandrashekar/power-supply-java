@@ -1,6 +1,6 @@
-package com.crossover.techtrial.controller;
+package com.powersupply.techtrial.controller;
 
-import com.crossover.techtrial.model.Panel;
+import com.powersupply.techtrial.model.Panel;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

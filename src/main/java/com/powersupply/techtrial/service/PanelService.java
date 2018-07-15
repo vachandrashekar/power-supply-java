@@ -1,6 +1,6 @@
-package com.crossover.techtrial.service;
+package com.powersupply.techtrial.service;
 
-import com.crossover.techtrial.model.Panel;
+import com.powersupply.techtrial.model.Panel;
 
 /**
  * PanelService interface for Panels.

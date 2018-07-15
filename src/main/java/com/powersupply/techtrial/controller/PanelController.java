@@ -1,10 +1,10 @@
-package com.crossover.techtrial.controller;
+package com.powersupply.techtrial.controller;
 
-import com.crossover.techtrial.dto.DailyElectricity;
-import com.crossover.techtrial.model.HourlyElectricity;
-import com.crossover.techtrial.model.Panel;
-import com.crossover.techtrial.service.HourlyElectricityService;
-import com.crossover.techtrial.service.PanelService;
+import com.powersupply.techtrial.dto.DailyElectricity;
+import com.powersupply.techtrial.model.HourlyElectricity;
+import com.powersupply.techtrial.model.Panel;
+import com.powersupply.techtrial.service.HourlyElectricityService;
+import com.powersupply.techtrial.service.PanelService;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
